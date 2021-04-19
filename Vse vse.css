@@ -1,0 +1,64 @@
+.Menu li:hover {
+ background-color: white;
+ color: black;
+}
+.Menu {
+     background-color:black;
+    color: white;
+    text-align: center;
+
+    
+
+}
+ul {
+    list-style:none;
+    
+
+}
+li {
+    display: inline-block;
+    padding: 20px 50px;
+
+
+}
+.Tuchichi {
+    background-color: #2143b0;
+    color: white;
+    height: 70px; 
+    text-align:center;
+}
+.dududu{
+background-color: #2143b0;
+    color: white;
+    height: 70px; 
+    text-align:center;
+
+
+	
+}
+.content {
+	background-color: #94adff;
+    color: white; 
+    text-align:center;
+}
+.dada {
+color: red
+}
+
+body {
+
+    background-color: green;
+}
+.tovar {
+
+    display: flex;
+}
+
+
+.Box {
+
+    background-color: black;
+    padding: 10px;
+    margin:10px ;
+
+}

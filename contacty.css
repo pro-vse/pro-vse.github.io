@@ -1,0 +1,44 @@
+.Menu li:hover {
+ background-color: white;
+ color: black;
+}
+.Menu {
+     background-color:black;
+    color: white;
+    text-align: center;
+
+    
+
+}
+ul {
+    list-style:none;
+    
+
+}
+li {
+    display: inline-block;
+    padding: 20px 50px;
+
+
+}.header {
+background-color: #3a2485;
+color: white;
+height: 70px;
+text-align: center;
+
+}
+
+.footer {
+background-color: #3a2485;
+color: white;
+height: 70px;
+text-align: center;
+
+}
+
+.content {
+background-color: #8b71de;
+color: white;
+height: 700px
+text-align: center;
+}
